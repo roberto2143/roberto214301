@@ -1,0 +1,45 @@
+h1{
+    color: black; 
+ text-align: center;
+ font-size: 50px;
+ font-family: 'Times New Roman', Times, serif;
+
+
+ }
+
+ p{color: black; 
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 10%;
+    margin-right: 10%;
+    font-family: Arial, Helvetica, sans-serif;}
+
+    ol{text-align: justify;
+        font-size: 20px;
+        margin-left: 10%;
+        margin-right: 10%;
+        font-family: Arial, Helvetica, sans-serif;}
+
+        h2{
+            color: black; 
+         text-align: center;
+         font-size: 25px;
+         font-family: Arial, Helvetica, sans-serif;
+        
+        
+         }
+        
+         h3{
+            color:black; 
+         text-align: center;
+         font-size: 25px;
+         font-family: Arial, Helvetica, sans-serif;
+        
+        
+         }
+        
+         body{
+
+            background-color: rgb(213, 216, 30);
+        
+        }
